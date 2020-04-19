@@ -1,6 +1,6 @@
 # Adobe XD New Features | Anima Plugin | Dynamic Form | XD Tutorial | Design Weekly
 
-<a href='https://youtu.be/wK8EZaw_pAg'target="_blank"><img src='https://github.com/its-abdul-wahab/anima-plugin-XD-beta-version/blob/master/dynamic-form-thumbnail.png?raw=true'></a>
+<a href="https://youtu.be/wK8EZaw_pAg" target="_blank"><img src='https://github.com/its-abdul-wahab/anima-plugin-XD-beta-version/blob/master/dynamic-form-thumbnail.png?raw=true'></a>
 
 #adobexd #xdupdate #anima
 
